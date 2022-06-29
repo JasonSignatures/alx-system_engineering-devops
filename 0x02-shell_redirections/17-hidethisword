@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "agrep -v 'bin' /etc/passwd
