@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "cut _c 1 | paste -s -d ''
